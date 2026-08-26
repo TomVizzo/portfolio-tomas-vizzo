@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomas-vizzo.tomasvizzo-re.chatgpt.site/sitemap.xml
